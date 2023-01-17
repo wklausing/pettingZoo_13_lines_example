@@ -4,4 +4,3 @@ PettingZoo 13 lines example from https://towardsdatascience.com/multi-agent-deep
 Modified to get it running.
 
 Python == 3.7.16
-pip == 22.0.4
